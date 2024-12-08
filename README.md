@@ -69,8 +69,8 @@ ifelse(
 )
 
 
-Bubble Size Control:
-Parameter: BubbleSizeParam
+Bubble Size Control: <br />
+Parameter: BubbleSizeParam <br />
 Dropdown Control: Users can choose to size bubbles based on either Market Value or Profit Margin.
 
 
