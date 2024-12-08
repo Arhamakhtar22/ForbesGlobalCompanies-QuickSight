@@ -97,3 +97,35 @@ A dropdown allows users to filter the pie chart to display only data for the sel
 <img width="240" alt="Screenshot 2024-12-07 at 8 18 30 PM" src="https://github.com/user-attachments/assets/be82b1f1-4c82-42fd-9aaa-50b7607d5265">
 
 
+5. Filters and Parameters <br />
+   
+Filters <br />
+Industry Filter: <br />
+Affects the KPI cards, bar chart, scatter plot, and pie chart. <br />
+Enables users to focus on specific industries for a tailored view. <br />
+Parameters <br />
+MinProfitMargin: v
+
+Purpose: Filters companies in the bar chart and table to show only those with a profit margin above the specified threshold. <br />
+Control Type: Slider <br />
+Default Value: 10% <br />
+
+BubbleSizeParam: <br />
+
+Purpose: Allows users to dynamically adjust the bubble size in the scatter plot based on: <br />
+Market Value <br />
+Profit Margin <br />
+Control Type: Dropdown <br />
+Default Value: Market Value <br />
+Stakeholder Value: <br />
+Adds flexibility and customization to the scatter plot, enabling stakeholders to explore different dimensions of performance. <br />
+
+IndustryParam: <br />
+
+Purpose: Filters the pie chart to display data for the selected industry. <br />
+Control Type: Dropdown <br />
+Default Value: None <br />
+Stakeholder Value: <br />
+Provides an industry-specific view of market value contribution, assisting in sector-level analysis. <br />
+
+
