@@ -1,0 +1,1 @@
+# ForbesGlobalCompanies-QuickSight
