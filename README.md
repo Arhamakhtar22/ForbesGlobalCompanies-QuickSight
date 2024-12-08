@@ -53,5 +53,29 @@ How to make it:
 
 <img width="238" alt="Screenshot 2024-12-07 at 8 03 35 PM" src="https://github.com/user-attachments/assets/a4e527c7-b61e-40e0-a957-ad265ca30522">
 
+3) Scatter Plot
+
+<img width="578" alt="Screenshot 2024-12-07 at 8 05 09 PM" src="https://github.com/user-attachments/assets/02a373e0-dfc6-40d9-8bb2-de65d2b62f48">
+
+Metrics:
+
+<img width="241" alt="Screenshot 2024-12-07 at 8 09 12 PM" src="https://github.com/user-attachments/assets/aaaa097c-fcc4-409c-a8a2-bd2eff9a5890">
+
+The DynamicBubbleSize is a calcualted field made using:
+
+ifelse(
+  ${BubbleSizeParam} = 'Market Value', {Market Value},
+  {Profit Margin}
+)
+
+
+Bubble Size Control:
+Parameter: BubbleSizeParam
+Dropdown Control: Users can choose to size bubbles based on either Market Value or Profit Margin.
+
+
+<img width="600" alt="Screenshot 2024-12-07 at 8 06 15 PM" src="https://github.com/user-attachments/assets/79f802b8-7d13-4288-bc9f-7516995a8302">
+
+
 
 
