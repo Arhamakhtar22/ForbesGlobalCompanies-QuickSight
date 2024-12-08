@@ -1,5 +1,5 @@
 # ForbesGlobalCompanies-QuickSight
-This dashboard i created provides an interactive and insightful representation of top 2000 company performance across different industries. It uses a combination of KPIs, charts, and controls to visualize critical metrics like market value, sales, profit margin, and profitability ratios, offering a detailed breakdown and flexibility for exploration.
+This dashboard i created provides an interactive and insightful representation of top 2000 company performance across different industries. It uses a combination of KPIs, charts, and controls to visualize critical metrics like market value, sales, profit margin, and profitability ratios, offering a detailed breakdown and flexibility for exploration.  <br />
 Dataset: https://www.kaggle.com/datasets/mohammadgharaei77/largest-2000-global-companies
 
 <img width="826" alt="Screenshot 2024-12-07 at 7 52 10 PM" src="https://github.com/user-attachments/assets/1ce47576-0bd2-4cb1-8b1c-eaa4e75e63ef">
