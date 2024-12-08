@@ -7,12 +7,12 @@ Dataset: https://www.kaggle.com/datasets/mohammadgharaei77/largest-2000-global-c
 1) KPI Cards
 <img width="945" alt="Screenshot 2024-12-07 at 7 52 39 PM" src="https://github.com/user-attachments/assets/b567b587-fb0c-4430-af1d-663a7c39d985">
 
-Metrics:
-Market Value: Displays the total market value of companies within the selected industry.
-Total Sales: Shows the aggregated sales of companies within the selected industry.
-Profit Margin: Reflects the average profit margin across all companies in the selected industry.
+Metrics: <br />
+Market Value: Displays the total market value of companies within the selected industry. <br />
+Total Sales: Shows the aggregated sales of companies within the selected industry. <br />
+Profit Margin: Reflects the average profit margin across all companies in the selected industry. <br />
 
-Industry Filter: A filter on the Industry field dynamically updates the KPI values when a user selects an industry.
+Industry Filter: A filter on the Industry field dynamically updates the KPI values when a user selects an industry. <br />
 The Profit Margin KPI Card is used by making a calcualted field using Profit / Sales * 100
 
 Why I Used It: <br />
@@ -79,6 +79,21 @@ Dropdown Control: Users can choose to size bubbles based on either Market Value 
 
 <img width="241" alt="Screenshot 2024-12-07 at 8 14 06 PM" src="https://github.com/user-attachments/assets/fe29d64e-5d65-40a1-9d7d-5385c3893c9e">
 
+4) Pie Chart
 
+<img width="604" alt="Screenshot 2024-12-07 at 8 16 37 PM" src="https://github.com/user-attachments/assets/c2286454-625f-4cfe-8889-4449c220a5b8">
+
+Metric: <br />
+
+Market Value Breakdown: Displays the market value contribution of each industry as a percentage of the total. <br />
+
+Industry Selection: <br />
+Controlled by the parameter IndustryParam. <br />
+A dropdown allows users to filter the pie chart to display only data for the selected industry. <br />
+
+
+<img width="604" alt="Screenshot 2024-12-07 at 8 17 45 PM" src="https://github.com/user-attachments/assets/869bd8f3-1b88-4de2-af86-e8905236d22c">
+
+<img width="240" alt="Screenshot 2024-12-07 at 8 18 30 PM" src="https://github.com/user-attachments/assets/be82b1f1-4c82-42fd-9aaa-50b7607d5265">
 
 
