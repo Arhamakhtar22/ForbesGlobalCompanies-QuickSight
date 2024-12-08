@@ -45,3 +45,13 @@ Market Value
 Why I Used It?
 The bar chart allows users to compare market values of companies in the selected industry visually.
 The drill-through table provides additional context, offering a deeper understanding of company-specific metrics.
+
+How to make it:
+
+
+<img width="238" alt="Screenshot 2024-12-07 at 8 03 20 PM" src="https://github.com/user-attachments/assets/a64ed6e6-d0e8-46b4-a6db-c1e10d9ea784">
+
+<img width="238" alt="Screenshot 2024-12-07 at 8 03 35 PM" src="https://github.com/user-attachments/assets/a4e527c7-b61e-40e0-a957-ad265ca30522">
+
+
+
